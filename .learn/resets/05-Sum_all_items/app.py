@@ -5,8 +5,6 @@ def sum_all_values(items):
 
     total= 0
     #The magic happens here:
-    for i in range(0,len(items)):
-        total += items[i]
    
 
     return total
